@@ -1,1 +1,1 @@
-{"data":{"allMdx":{"edges":[{"node":{"id":"5a1b468b-23cd-5c98-b97f-e6a5110dbdb8","fields":{"title":"Documentation","pageType":"doc","section":"","order":-9999,"slug":"/docs/"}}}]},"site":{"siteMetadata":{"sections":null}}}}
+{"data":{"allMdx":{"edges":[{"node":{"id":"0f9fadf8-7cfe-5df3-82f1-bef85848559a","fields":{"title":"What is Rust?","pageType":"doc","section":"Introduction","order":1,"slug":"/introduction/what-is-rust/"}}}]},"site":{"siteMetadata":{"sections":null}}}}
