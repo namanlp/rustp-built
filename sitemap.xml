@@ -5,4 +5,5 @@
 <url> <loc>https://rustp.org/introduction/what-is-rust/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://rustp.org/introduction/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://rustp.org/number-theory/introduction-to-number-theory/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://rustp.org/number-theory/factorial-of-number/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
