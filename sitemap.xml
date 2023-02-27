@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://rustp.org/home/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://rustp.org/basic-programs/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://rustp.org/basic-programs/input-array-of-numbers/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://rustp.org/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://rustp.org/basic-programs/string-to-vector/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://rustp.org/number-theory/modular-multiplication/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://rustp.org/home/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://rustp.org/basic-programs/input-single-number/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://rustp.org/introduction/what-is-rust/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://rustp.org/basic-programs/string-to-vector/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://rustp.org/basic-programs/input-array-of-numbers/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://rustp.org/introduction/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://rustp.org/introduction/what-is-rust/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://rustp.org/basic-programs/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://rustp.org/number-theory/modular-multiplication/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://rustp.org/number-theory/modular-inverse/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://rustp.org/number-theory/list-factors-of-a-number/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://rustp.org/number-theory/prime-factorization-of-a-number/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://rustp.org/number-theory/modular-exponentiation/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://rustp.org/number-theory/list-factors-of-a-number/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://rustp.org/number-theory/gcd-or-hcf/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://rustp.org/number-theory/factorial-of-large-numbers/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://rustp.org/number-theory/modular-inverse/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://rustp.org/number-theory/lcm/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://rustp.org/number-theory/factorial-of-mutiple-numbers/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://rustp.org/number-theory/factorial-of-number/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://rustp.org/number-theory/lcm/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://rustp.org/number-theory/introduction-to-number-theory/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://rustp.org/number-theory/gcd-or-hcf/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
