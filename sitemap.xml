@@ -8,15 +8,13 @@
 <url> <loc>https://rustp.org/basic-programs/interactive-problems/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://rustp.org/basic-programs/input-single-number/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://rustp.org/basic-programs/string-to-vector/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://rustp.org/introduction/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://rustp.org/basic-programs/vector-to-string/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://rustp.org/number-theory/modular-exponentiation/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://rustp.org/number-theory/modular-multiplication/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://rustp.org/introduction/what-is-rust/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://rustp.org/number-theory/modular-exponentiation/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://rustp.org/number-theory/modular-inverse/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://rustp.org/number-theory/prime-factorization-of-a-number/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://rustp.org/number-theory/list-factors-of-a-number/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://rustp.org/number-theory/gcd-or-hcf/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://rustp.org/number-theory/list-factors-of-a-number/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://rustp.org/number-theory/lcm/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://rustp.org/number-theory/factorial-of-large-numbers/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://rustp.org/number-theory/factorial-of-mutiple-numbers/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
