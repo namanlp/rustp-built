@@ -12,7 +12,7 @@ Also, to see the website and test it on Linux, simply clone the repository and i
 python3 -m http.server
 ```
 
-This should open the website at `0.0.0.0:8000`. You can simply visit it on your favourite web browser.
+This should open the website at `0.0.0.0:8000` or `localhost:8000`. You can simply visit any of these addresses on your favourite web browser.
 
 ## Contributing
 
